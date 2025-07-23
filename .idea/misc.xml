@@ -4,11 +4,19 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+=======
+        <option value="$PROJECT_DIR$/ONL_TEA_D_01_Prework_Java-Indira/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+>>>>>>> 2cb2c26271aad703df06d8967ca41eea430f35cd
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
